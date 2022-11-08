@@ -1,4 +1,4 @@
-# Mestre-slimpter
+# Mestre-slinpter
 Uma formatção de condição SE a partir de uma brincad  com amigo Leo.
 a Brincadeira é digite seu nome, caso digite Leo ou leonardo.
 Ai fica legal a resposta.
